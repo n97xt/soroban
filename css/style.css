@@ -7,7 +7,7 @@ body
 #container
 {
     width: 1024px;
-    height: 100vh; 
+    height: 100vh;
     margin: auto;
 
 }
@@ -16,7 +16,7 @@ img
 {
     margin: 20px auto 0 auto;
     width: 200px;
-    display: block;    
+    display: block;
 }
 
 .tresc
@@ -64,12 +64,30 @@ img
     font-size: 80px;
 }
 
+.start
+{
+    width: 175px;
+    height: 90px;
+    display: block;
+    /*margin: auto;*/
+    margin: 300px auto 0 auto;
+    background-color: #9b59b6;
+    border-radius: 200px;
+    box-shadow: 1px 5px 0 0 #8e44ad;
+    text-shadow: #8e44ad 7px 7px 2px;
+    text-align: center;
+    color: white;
+    font-size: 65px;
+    padding-top: 8px;
+    box-sizing: border-box;
+}
+
 .hidden {
     display: none;
 }
 
 #odliczanie
-{   
+{
     width: 175px;
     color: white;
     height: 90px;
@@ -112,7 +130,7 @@ img
     font-weight: bold;
     color: white;
     font-size: 100px;
-    text-shadow: #c0392b 7px 7px 2px; 
+    text-shadow: #c0392b 7px 7px 2px;
     text-decoration: none;
 }
 
@@ -164,7 +182,7 @@ img
     margin-right: 15px;
 }
 .wyniki
-{    
+{
     display: block;
     margin: 10px auto 0 auto;
     width: 125px;
@@ -178,7 +196,7 @@ img
     font-weight: bold;
     color: white;
     text-shadow: #d35400 3px 3px 1px;
-    box-shadow: 1px 3px 0 0 #d35400;    
+    box-shadow: 1px 3px 0 0 #d35400;
 }
 h1
 {
@@ -188,11 +206,11 @@ h1
     text-align: center;
     margin-top: -20px;
     margin-bottom: -30px;
-    text-shadow: grey 3px 3px 0; 
+    text-shadow: grey 3px 3px 0;
 }
 
 h3
-{   
+{
     color: white;
     letter-spacing: 1.5px;
     text-align: center;
@@ -205,9 +223,9 @@ h2
     color: white;
     font-size: 23px;
     letter-spacing: 28px;
-    text-align: center; 
+    text-align: center;
     margin-top: -5px;
-    text-shadow: grey 2px 2px 0; 
+    text-shadow: grey 2px 2px 0;
 
 }
 
@@ -236,13 +254,13 @@ table
     text-shadow: grey 3px 3px 0;
 }
 
-thead 
+thead
 {
     background: #2980b9;
 	color: #fff;
 }
 
-tbody 
+tbody
 {
     background: #3498db;
     font-size: 55px;
@@ -254,7 +272,7 @@ td
 }
 
 .formularz
-{   
+{
     height: 250px;
     width: 400px;
     font-size: 50px;
@@ -271,7 +289,7 @@ td
 
 input[type="submit"]
 {
-    
+
     color: white;
     border: 0;
     border-radius: 15px;

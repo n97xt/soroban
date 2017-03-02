@@ -2,10 +2,10 @@
 require 'app/start.php';
 require 'app/engine/addpoint.php';
 
-if($nrq <= 10) 
+if($nrq <= 10)
 {
-    header("Location: /sorobanv2/show.php?id=$nrq&zes=$zestaw");
-} else 
+    header("Location: /GitHub/soroban/show.php?id=$nrq&zes=$zestaw");
+} else
 {
-    header("Location: /sorobanv2/index.php");
+    header("Location: /GitHub/soroban/index.php");
 }

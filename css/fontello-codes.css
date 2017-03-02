@@ -1,6 +1,4 @@
 
-.icon-right-thin:before { content: '\e800'; } /* '' */
-.icon-ok:before { content: '\e801'; } /* '' */
-.icon-right:before { content: '\e802'; } /* '' */
-.icon-trophy:before { content: '\e803'; } /* '' */
-.icon-cancel:before { content: '\e804'; } /* '' */
+.icon-hourglass:before { content: '\e800'; } /* '' */
+.icon-right:before { content: '\e801'; } /* '' */
+.icon-trophy:before { content: '\e802'; } /* '' */

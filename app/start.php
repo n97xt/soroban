@@ -4,7 +4,7 @@ ini_set('display_errors', 'On');
 
 define('APP_ROOT', __DIR__);
 define('VIEW_ROOT', APP_ROOT . '/views');
-define('BASE_URL', 'http://localhost/sorobanv2');
+define('BASE_URL', 'http://localhost/GitHub/soroban');
 
 $db_config = array(
     'host' => 'localhost',
@@ -38,5 +38,3 @@ try
 {
     die('Unable to connect: ' . $e->getMessage());
 }
-
-

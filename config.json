@@ -7,9 +7,21 @@
   "ascent": 850,
   "glyphs": [
     {
+      "uid": "7f6916533c0842b6cec699fd773693d3",
+      "css": "hourglass",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
       "uid": "9e67bfab0143d9511f8eef6897caeb88",
       "css": "right",
-      "code": 59392,
+      "code": 59393,
+      "src": "entypo"
+    },
+    {
+      "uid": "978aa8facd816df874039e139cb0cdde",
+      "css": "trophy",
+      "code": 59394,
       "src": "entypo"
     }
   ]

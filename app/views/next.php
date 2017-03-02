@@ -1,4 +1,4 @@
-<?php //if($nrq < 10): ?>
+  <div id="start" class="icon-hourglass start"></div>
 <script>
     function sprawdz(correct, choice)
     {
@@ -10,8 +10,5 @@
     }
 </script>
     <a id="dalej" class="dalej icon-right hidden" href="addpoint.php?id=<?php echo $nrq+1 ?>&zes=<?php echo $zestaw ?>&a=0"></a>
-    <?php //else: ?>
-<!--    <a id="dalej" class="dalej icon-right hidden" href="index.php"></a>-->
-    <?php //endif; ?>
-    <div id="odliczanie"></div>
+    <div id="odliczanie" class="hidden"></div>
 <?php require VIEW_ROOT . '/templates/footer.php'; ?>
