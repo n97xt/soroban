@@ -7,7 +7,7 @@
     <h2>KONKURS MATEMATYCZNY</h2>
 
     <div class="menu">
-        <div class="linkbox">
+        <!-- <div class="linkbox">
 
             <a href="form.php?zes=1" class="link">1</a>
 
@@ -35,35 +35,35 @@
 
             <a href="form.php?zes=5" class="link">5</a>
 
-        </div>
+        </div> -->
 
         <div class="linkbox">
 
-            <a href="form.php?zes=6" class="link">6</a>
-
-        </div>
-
-        <div class="linkbox">
-
-            <a href="form.php?zes=7" class="link">7</a>
+            <a href="form.php?zes=6" class="link">1</a>
 
         </div>
 
         <div class="linkbox">
 
-            <a href="form.php?zes=8" class="link">8</a>
+            <a href="form.php?zes=7" class="link">2</a>
 
         </div>
 
         <div class="linkbox">
 
-            <a href="form.php?zes=9" class="link">9</a>
+            <a href="form.php?zes=8" class="link">3</a>
 
         </div>
 
         <div class="linkbox">
 
-            <a href="form.php?zes=10" class="link">10</a>
+            <a href="form.php?zes=9" class="link">4</a>
+
+        </div>
+
+        <div class="linkbox">
+
+            <a href="form.php?zes=10" class="link">5</a>
 
         </div>
 
